@@ -14,7 +14,7 @@ function App() {
   const [resData, setResData] = useState(null);
   const [error, setError] = useState(false);
 
-  const apikey = "51f7e726cb98eb8410b3093c3ff23ca1";
+  const apikey = "Your key here";
 
   // for getting name metric of the city
   const getData = (data) => {
